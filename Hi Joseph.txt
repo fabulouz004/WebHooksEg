@@ -1,0 +1,68 @@
+Hi Joseph
+
+You want to create a repo or use a existing repo 
+in github?
+
+you can use an existing one
+
+Show me 
+
+
+
+ok
+It is not uploading in existing one
+So I'm going to create a new one. This is what I'm doing now. Enter project name that is going to uploaded in the github
+
+Ok?
+i understand
+
+You want this code/project in public or private?
+
+can you access it if its in private ?
+
+Yeah, You can add me as a collabrator.
+
+let's go private then
+
+Normally git is a version managemnt tool
+Github is a social site or it contains all the repositories(our files)
+
+We can push our code github in two ways.
+
+One by cli(Command line interface)
+Other one is gui(graphical user interface)
+
+Github Desktop is a gui
+
+But programmers must learn cli as well
+
+
+Enter your pass in the github
+
+
+
+
+
+
+We can close this once after I tell you the below things. Ok?
+
+yes sir
+
+
+Last one I want to tell you.
+
+That is autodeploment in the live server.
+
+I will show you how.
+
+I am going to create a repo and it is going to automatically uploaded to the cpanel.
+
+OK?
+
+check your whatsapp
+
+let me show you it works now
+
+would still love you to show me the autodeploment process
+
+Yeah I saw it.
