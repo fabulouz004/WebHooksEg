@@ -66,3 +66,26 @@ let me show you it works now
 would still love you to show me the autodeploment process
 
 Yeah I saw it.
+
+
+
+
+I just cloned the repo. Now I'm going to make it deployed automatically.
+2 i.e. If you make changes in your local system, it will automatically uploaded in the serve
+
+if i make changes locally, it updates to git then from git to my server right ?
+
+Yes that's what we are going to do now.
+
+
+I don't see any auto deployment link in your. But some server have that option.
+
+
+THere you have to enter the url that is given in the server. 
+
+If it we done steps correctly, this will works
+i make changes locally, it updates to git then from git to my server
+
+But Now you can use the git feature in server.
+
+and see here.
